@@ -1,2 +1,15 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DigitalArtifex&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DigitalArtifex&theme=city_lights)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DigitalArtifex&theme=city_lights&utcOffset=8)
+<table width="100%">
+  <tr>
+    <td colspan=2>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DigitalArtifex&theme=city_lights" width="100%" />
+    </td> 
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DigitalArtifex&theme=city_lights" width="100%" />
+    </td> 
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DigitalArtifex&theme=city_lights&utcOffset=8" width="100%" />
+    </td> 
+  </tr>
+</table>
